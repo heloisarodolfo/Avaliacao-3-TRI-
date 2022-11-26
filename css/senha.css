@@ -40,7 +40,7 @@ p{
 }
 
 a{
-    color: #5568FE;
+    color: #0e2aff;
     text-decoration: none;
     margin-left: 5px;
 }
@@ -67,14 +67,14 @@ a{
     width: 100%;
     margin-top: 2rem;
     border: none;
-    background-color: #5568FE;
+    background-color: #001191;
     padding: 0.60rem;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .continue-button button:hover {
-    background-color: #4052df;
+    background-color: #0e2aff;
 }
 
 .continue-button button a {
